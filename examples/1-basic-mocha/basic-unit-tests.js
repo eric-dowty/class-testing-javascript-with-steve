@@ -1,5 +1,6 @@
 var assert = chai.assert;
 
+
 describe('isEven()', function () {
   it('Zero is an even number. Strange, right?', function () {
     assert(isEven(0));
